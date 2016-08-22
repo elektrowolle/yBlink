@@ -1,0 +1,14 @@
+{
+  "name": "yblink",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "description": "blink example",
+  "author": "m",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mbed-hal-nrf51822-mcu":"2.2.0",
+    "mbed-drivers": "^1.5.0",
+    "ble": "^2.0.0"
+  }
+}
